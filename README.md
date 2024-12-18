@@ -13,7 +13,7 @@ Flatdango is a mini web application that allows users to view movie details and 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/JonasKiwia/Flatdango>
 
 2. Navigate to the project directory and install json-server:
 
